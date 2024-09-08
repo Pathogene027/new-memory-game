@@ -113,4 +113,4 @@ Contributions are welcome! Please follow these guidelines:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/MIT) file for details.
+This project is licensed under the MIT License - see the [LICENSE](license.txt) file for details.
